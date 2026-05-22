@@ -5,7 +5,7 @@ Repositorio publico usado somente para publicar instaladores e metadados de atua
 O codigo-fonte do aplicativo fica no repositorio privado. Neste repositorio, publique apenas arquivos de release, como:
 
 - `latest.json`
-- `Azo Financas_<versao>_x64-setup.exe`
+- `azo_financas_<versao>_x64_setup.exe`
 - arquivos opcionais de instalador, como `.msi`
 
 O endpoint configurado no app aponta para:
