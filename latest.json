@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Azo Financas 0.2.1",
-  "pub_date": "2026-05-29T22:12:11.669Z",
+  "version": "0.2.2",
+  "notes": "Azo Financas 0.2.2",
+  "pub_date": "2026-05-31T20:31:37.748Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFQrNHF5TUhXL1JKMHF2enp0aHk2dS9ScE45U3ZaVTFndGl2dnJTYldMNlVvcGR4QXBhSnZydHVkZkp5SkZYSDRLank1ZzVRNzdadzcyY2t5WUJZKzZ6SkJ4VklFbUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDkyNzExCWZpbGU6QXpvIEZpbmFuw6dhc18wLjIuMV94NjQtc2V0dXAuZXhlCkpTS1R4Nzk5VHUrZ2E0d2xycXpuOXo0Rmo5MHJ2ZERTaGhlaXg0bFlwcjlZbCtadk0rVkhleGc0MHZkTnYwVm4yd0pQT3J3SHd5WUJjYWhCdjAxMEFnPT0K",
-      "url": "https://github.com/samuellgc/azo-financas-releases/releases/download/v0.2.1/azo_financas_0.2.1_x64_setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFQrNHF5TUhXL2RlYWhUdS9QUytoSE96TlR6K1BjcEVNUFBiQkZLSFk1SnA0dEx6ZjZTY2o4WjBBUU5yV2oyZXpSOUFDS1Qzek0zRWNxV05abkY5QlNEQjZLNTU5TmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjU5NDkxCWZpbGU6QXpvIEZpbmFuw6dhc18wLjIuMl94NjQtc2V0dXAuZXhlCjZUN21wd0JhQlAzb1Z2TEtGSDRWU0Z4Zm1qeUxiQkRFWHF4YTlUQXJ6Y2Fja2xjSnNFVndiVUxWdCtsK1gyaWpnZDJ5eStTSGdHYU5ySVBTQk50QkR3PT0K",
+      "url": "https://github.com/samuellgc/azo-financas-releases/releases/download/v0.2.2/azo_financas_0.2.2_x64_setup.exe"
     }
   }
 }
